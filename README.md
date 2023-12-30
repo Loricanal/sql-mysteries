@@ -4,7 +4,8 @@
 
 There's been a Murder in SQL City! The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
-This game instance an alternative version of https://github.com/NUKnightLab/sql-mysteries/blob/master/sql-murder-mystery.db .
+The game instance is based on the structure of https://github.com/NUKnightLab/sql-mysteries/blob/master/sql-murder-mystery.db.
+In this alternative version of the game, beyond identifying the murderer as in the original, participants are tasked with uncovering all individuals connected to the murder. Furthermore, the SQL queries required involve more intricate constructs, tailored to the learning objectives of a database fundamentals course for cinema and media engineers at the Polytechnic University of Turin. 
 
 
 ## Getting Started
