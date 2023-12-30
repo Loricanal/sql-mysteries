@@ -20,7 +20,7 @@ For insights into the implementation of this game in the classroom and its learn
   pages={129-138},
   doi={10.1109/COMPSAC54236.2022.00027}
 }
-
+```
 
 ## Getting Started
 To getting started you need to download the db: **cluedo.sql** for MySql and **cluedo.sqlite** for SQLLite.
